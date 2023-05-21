@@ -1,2 +1,3 @@
 hostname router1
 vender cisco
+loopback 8.8.8.8
